@@ -29,7 +29,7 @@ export default function OpenPage() {
   return (
     <main class={tw`max-w-screen bg-[#0e0e0e] min-h-screen text-white `}>
       <img class={tw`w-full`} src="/resource/ios.gif" />
-      <h1 class={tw`text-center text-3xl`}>⚡️ WXOPEN</h1>
+      <h1 class={tw`text-center text-3xl`}>⚡️ 腾讯控股</h1>
     </main>
   );
 }
